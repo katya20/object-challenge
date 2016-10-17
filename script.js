@@ -1,8 +1,8 @@
 var person = {
   name: "Katya",
-  representation: "http://i.dailymail.co.uk/i/pix/2016/03/14/19/322C3FA100000578-0-image-a-13_1457982438669.jpg",
+  representation: "http://www.myconfinedspace.com/wp-content/uploads/tdomf/119129/n35164325048_1212609_7006.jpg",
   height: "500px",	
-  favoriteColor: "blue",
+  favoriteColor: "lavender",
   catchphrase: "Get pumped!"
 }
 
