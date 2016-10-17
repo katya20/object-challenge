@@ -11,6 +11,9 @@ drawPerson (person)
 function drawPerson (person) {
   $("#name").html(person.name)
   $("#image").attr("src", person.imageSource)
+  $("#image").css({"border-color": person.favo, 
+               "border-weight":"1px", 
+               "border-style":"solid"});
 }
 
 //drawPerson(person)
