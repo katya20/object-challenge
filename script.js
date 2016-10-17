@@ -10,7 +10,7 @@ drawPerson (person)
 
 function drawPerson (person) {
   $("#name").html(person.name)
-  $(":image")
+  $("#image")
 }
 
 //drawPerson(person)
