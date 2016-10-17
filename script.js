@@ -6,4 +6,6 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
+console.log(person.representation)
+
 //drawPerson(person)
