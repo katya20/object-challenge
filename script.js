@@ -10,6 +10,7 @@ drawPerson (person)
 
 function drawPerson (person) {
   $("#name").html(person.name)
+  
 }
 
 //drawPerson(person)
