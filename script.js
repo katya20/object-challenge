@@ -6,10 +6,10 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
-draw
+drawPerson (person)
 
 function drawPerson (person) {
-  console.log("hi")
+  $("
 }
 
 //drawPerson(person)
